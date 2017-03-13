@@ -1,0 +1,23 @@
+---
+layout: post
+title: "spark源码编译"
+date: 2017-03-13 16:11:45 +0800
+categories: share
+---
+1.下载spark源码
+
+{% highlight ruby %}
+git clone git://github.com/apache/spark.git
+{% endhighlight %}
+
+
+2.
+{% highlight ruby %}
+# Apache Hadoop 2.7.X and later
+./build/mvn -Pyarn -Phadoop-2.7 -Dhadoop.version=2.7.0 -DskipTests clean package
+{% endhighlight %}
+
+3.
+![我]({{ site.url }}/downloads/ME.jpg)
+
+
