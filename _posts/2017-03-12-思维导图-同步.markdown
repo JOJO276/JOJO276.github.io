@@ -1,0 +1,14 @@
+---
+layout: post
+title: "思维导图软件之PC端与手机端同步"
+date: 2017-03-12 16:11:45 +0800
+categories: share
+---
+1.[Mindjet](http://tieba.baidu.com/p/3522009560)
+
+2.MindNode
+
+3.[Mind Vector](https://cn.mindvectorweb.com/MyMaps.php)
+
+
+
