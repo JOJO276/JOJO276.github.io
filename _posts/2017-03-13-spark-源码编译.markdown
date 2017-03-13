@@ -18,6 +18,8 @@ git clone git://github.com/apache/spark.git
 {% endhighlight %}
 
 3.
-![我]({{ site.url }}/downloads/ME.jpg)
+![我]({{ site.url }}/downloads/Zinc.png)
+
+问题：：：没找到Zinc的increment开关
 
 
