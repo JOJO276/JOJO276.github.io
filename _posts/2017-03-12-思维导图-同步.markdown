@@ -18,6 +18,10 @@ categories: share
   收费
 
 5.[Mind manager](http://www.mindmanager.cc)
+    
+  [mindjet云服务器与PC、苹果iPhone、安卓Android手机同步共享mindmanager文件](http://tieba.baidu.com/p/3522009560)
+  
+  应该可以实现各个平台同步，还未实验
 
 
 
