@@ -4,13 +4,20 @@ title: "思维导图软件之PC端与手机端同步"
 date: 2017-03-12 16:11:45 +0800
 categories: share
 ---
-1.[Mindjet](http://tieba.baidu.com/p/3522009560)
+1.[Xmind](https://www.xmind.net)
 
-2.MindNode
+  mac、iphone、网页可用，可实现自动云存储,在线编辑
 
-3.[Mind Vector](https://cn.mindvectorweb.com/MyMaps.php)
+2.[Mind Vector](https://cn.mindvectorweb.com/MyMaps.php)
 
-4.网页版：[ProcessOn](https://www.processon.com)
+  三张免费,视觉效果很好,可实现自动云存储,在线编辑
+
+3.网页版：[ProcessOn](https://www.processon.com)
+
+4.MindNode
+  收费
+
+5.[Mind manager](http://www.mindmanager.cc)
 
 
 
