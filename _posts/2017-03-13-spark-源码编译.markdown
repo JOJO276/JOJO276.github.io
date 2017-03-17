@@ -20,6 +20,16 @@ git clone git://github.com/apache/spark.git
 3.
 ![我]({{ site.url }}/downloads/Zinc.png)
 
-问题：：：没找到Zinc的increment开关
+4.Zinc：增量编译
 
+  增量编译是只编译那些源代码在上一次编译之后有修改的类，及那些受这些修改影响到的类，它可以大大减少 Scala 的编译时间。
+
+  所以如果多人在同一台机器上编译，会发生冲突。
+
+  解决办法：关闭Zinc 
+
+  1.在spark/pom.xml中把true改为false
+  ![我]({{ site.url }}/downloads/pom.png)
+
+  2.build/zinc-<version>/bin/zinc -shutdown
 
