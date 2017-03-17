@@ -29,7 +29,7 @@ git clone git://github.com/apache/spark.git
   解决办法：关闭Zinc 
 
   1.在spark/pom.xml中把true改为false
-  ![我]({{ site.url }}/downloads/pom.png)
+  ![pom]({{ site.url }}/downloads/pom.png)
 
   2.build/zinc-<version>/bin/zinc -shutdown
 
