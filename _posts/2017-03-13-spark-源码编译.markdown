@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "spark源码编译"
+title: "spark源码编译-Zinc报错简析"
 date: 2017-03-13 16:11:45 +0800
 categories: share
 ---
 
-参考：[http://spark.apache.org/docs/latest/building-spark.html]
+参考链接：[http://spark.apache.org/docs/latest/building-spark.html]
 
 1.下载spark源码
 
