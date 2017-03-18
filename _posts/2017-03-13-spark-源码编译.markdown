@@ -26,7 +26,7 @@ git clone git://github.com/apache/spark.git
 
   所以如果多人在同一台机器上编译，会发生冲突。
   
-  Zinc编译过程：https://segmentfault.com/a/1190000005369936#articleHeader1
+  Zinc编译过程：<https://segmentfault.com/a/1190000005369936#articleHeader1>
 
   解决办法：关闭Zinc 
 
